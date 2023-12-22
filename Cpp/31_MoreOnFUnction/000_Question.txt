@@ -1,4 +1,4 @@
-                More on Functions In C++
+                         More on Functions In C++
 
 1. Define a function to sort an array of integers in ascending or descending order 
 depending on bool type argument (true for ascending and false for descending)

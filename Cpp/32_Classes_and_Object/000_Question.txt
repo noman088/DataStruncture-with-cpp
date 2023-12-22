@@ -1,0 +1,23 @@
+            Classes and Objects 
+
+
+1. Define a class Complex to represent a complex number . Declare instance member
+variables to store real and imaginary part of a complex number. also define instance
+number fucntions to set values of complex number and print values of complex number
+
+
+2. Define a class time to represent time (like 3 hr 45 min 20 sec) . Declare appropriate 
+number of instance member varables and also difine instance memebre fucntions to 
+set values for time and display values of time
+
+
+3. Define a class Date to represent date (like d=31 m=12 y=2023) . Declare
+appropriate number of instance member variables and also define instance memebre
+fucntions to set date and get date. 
+
+4. In Question 3. define methods to display date in the following pattern
+    1. 31-12-2023
+    2. 31-Dec-2023
+
+5. Define a class Circle with radius as its property . Provide setRadius() and 
+getRadius() methods . Also define methods to return area and circumference of circle. 
