@@ -1,0 +1,38 @@
+                Constructor
+
+1. Define a class Cuboid with length, breadth and height as instance member
+variables . Define Constructor to initialise member variables.
+
+2. Define a class Customer with instance members cust_id , name , email , mobile
+Define non parametaerised constructor and parameterised constructor in the class. 
+
+3. Define a class Time with hr, min, sec as instance member variables . Define
+constructor to initialise time Objects.
+
+4. Define a class Book with booked , title and price as instance member variables 
+Define non parameterrised and parametaerised constructor in the class. 
+
+5. Define a class Complex with instance variables for real and imaginary part of a
+complex number.Define only one parameterrised constructor in the class to initialise
+complex objects. Also define showData method in the class to display object data.
+Now create an array of Complex class with size 5 and display values of each object.
+
+6. Define a class Number with size and arr pointer as instance variables. Provide
+constructor to  initialise instance members, dynamically allocate an array of given 
+size and store address in arr variable of object. Also define destructor to deallocate 
+memory of array . Implement deep copy using copy constructor to avoid memory issue.
+
+7.Define a class student and write a program to enter student details using
+constructor and define member fucntion to display all the details.
+
+8. Define a class Date with d, m , y as instance variables. initialise members using 
+initialisers.
+
+9.Define a class Room for a hotel management project with room number , room type, 
+is_AC  , price as instance variables. initialise instance variables using constructor.
+
+
+10. Define Circle class with radius as instance variable. Define two constructors in the
+class-non parameterised and parameterised.
+
+
