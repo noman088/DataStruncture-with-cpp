@@ -1,4 +1,4 @@
-        Function In C++
+                 Function In C++
 
 1. Define a Function to check whether a given Number is a Prime or not 
 2. Define a Function to find highest value digit in a given Number 
