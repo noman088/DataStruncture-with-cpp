@@ -1,7 +1,8 @@
 {
-  "files.associations": {
-    "iostream": "cpp",
-    "ostream": "cpp"
-  },
-  "files.autoSave": "afterDelay"
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "functional": "cpp"
+    },
+    "files.autoSave": "afterDelay"
 }
