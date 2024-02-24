@@ -4,5 +4,8 @@
         "ostream": "cpp",
         "functional": "cpp"
     },
-    "files.autoSave": "afterDelay"
+    "files.autoSave": "afterDelay",
+    "files.exclude": {
+        "**/*.exe": true
+    }
 }
