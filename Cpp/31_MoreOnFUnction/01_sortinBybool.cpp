@@ -7,6 +7,7 @@ void sortarr(int a[], bool x)
 {
         if (x == true)
         {
+                //        int a[] = {1, 4, 2, 5, 3};
 
                 for (int i = 0; i < 5; i++)
                         for (int j = i + 1; j < 5; j++)
