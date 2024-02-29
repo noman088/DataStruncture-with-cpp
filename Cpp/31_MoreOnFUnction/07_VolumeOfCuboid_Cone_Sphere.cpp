@@ -8,13 +8,13 @@ int Calculate(int l, int b, int h)
 
         return l * b * h;
 }
-// cone
+// Cone
 double Calculate(float r, float h)
 {
         double v = (3.14 * (r * r)) * (h / 3);
         return v;
 }
-// sphere
+// Sphere
 double Calculate(float r)
 {
         return (4 / 3) * (3.14 * (r * r * r));
