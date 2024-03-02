@@ -38,7 +38,6 @@ int main()
         cin >> str;
         cout << "Do you want to give second Index Press y for yes and n for no \n";
         cin >> c;
-l1:
         if (c == 'y')
         {
                 cout << "Enter Start and Ending index";
@@ -54,7 +53,6 @@ l1:
         else
         {
                 cout << "Please give a Valid Index ";
-                goto l1;
         }
 
         return 0;
