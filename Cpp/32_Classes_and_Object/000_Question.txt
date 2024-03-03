@@ -1,4 +1,5 @@
-            Classes and Objects 
+                            Classes and Objects 
+                         -------------------------
 
 
 1. Define a class Complex to represent a complex number . Declare instance member
