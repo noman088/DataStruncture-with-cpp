@@ -10,6 +10,12 @@ private:
         int roll_no, right, wrong, netScore, right_weightage, wrong_weightage;
 
 public:
+        TestResult(int rn, int r, int w, int ns, int rw, int ww)
+        {
+                rn = roll_no;
+                r = right;
+                w = wrong;
+        }
         void setRollNo(int rn)
         {
                 roll_no = rn;
