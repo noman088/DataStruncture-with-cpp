@@ -11,7 +11,7 @@ private:
 
 public:
         TestResult(){};
-        TestResult(int rn, int r, int w, int ns, int rw, int ww)
+        TestResult(int rn, int r, int w)
         {
                 roll_no = rn;
                 right = r;
