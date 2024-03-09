@@ -13,9 +13,9 @@ public:
         TestResult(){};
         TestResult(int rn, int r, int w, int ns, int rw, int ww)
         {
-                rn = roll_no;
-                r = right;
-                w = wrong;
+                roll_no = rn;
+                right = r;
+                wrong = w;
         }
         void setRollNo(int rn)
         {
