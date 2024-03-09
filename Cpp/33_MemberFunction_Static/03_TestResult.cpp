@@ -51,13 +51,13 @@ public:
         }
 };
 
-int main()
-{
-        TestResult rn1;
-        rn1.setRollNo(1);
-        rn1.setRight(5);
-        rn1.setWrong(3);
-        cout << "The netScore of roll Noo." << rn1.getRollNo() << " is " << rn1.NetScore() << endl
-             << "which has " << rn1.rightAns() << " Right answer and " << rn1.wrongAns() << " Wrong Answer" << endl;
-        return 0;
-}
+// int main()
+// {
+//         TestResult rn1;
+//         rn1.setRollNo(1);
+//         rn1.setRight(5);
+//         rn1.setWrong(3);
+//         cout << "The netScore of roll Noo." << rn1.getRollNo() << " is " << rn1.NetScore() << endl
+//              << "which has " << rn1.rightAns() << " Right answer and " << rn1.wrongAns() << " Wrong Answer" << endl;
+//         return 0;
+// }
