@@ -17,16 +17,26 @@ public:
                 right = r;
                 wrong = w;
         }
-        void setRollNo(int rn)
+
+        void setRollNo()
         {
-                roll_no = rn;
+                int n;
+                cout << "Enter roll Number : " << endl;
+                cin >> n;
+                roll_no = n;
         }
-        void setRight(int r)
+        void setRight()
         {
+                int r;
+                cout << "Enter number of right answer " << endl;
+                cin >> r;
                 right = r;
         }
-        void setWrong(int w)
+        void setWrong()
         {
+                int w;
+                cout << "Enter number of wrong answer" << endl;
+                cin >> w;
                 wrong = w;
         }
         int NetScore()
@@ -36,12 +46,12 @@ public:
         }
         int rightWeightage()
         {
-                right_weightage = right * 5;
+                right_weightage = right * 3;
                 return right_weightage;
         }
         int wrongWeightage()
         {
-                wrong_weightage = wrong * 3;
+                wrong_weightage = wrong * 1;
                 return wrong_weightage;
         }
         int getRollNo()
@@ -61,10 +71,10 @@ public:
 // int main()
 // {
 //         TestResult rn1;
-//         rn1.setRollNo(1);
-//         rn1.setRight(5);
-//         rn1.setWrong(3);
-//         cout << "The netScore of roll Noo." << rn1.getRollNo() << " is " << rn1.NetScore() << endl
+//         rn1.setRollNo();
+//         rn1.setRight();
+//         rn1.setWrong();
+//         cout << "The netScore of roll No." << rn1.getRollNo() << " is " << rn1.NetScore() << "\n"
 //              << "which has " << rn1.rightAns() << " Right answer and " << rn1.wrongAns() << " Wrong Answer" << endl;
 //         return 0;
 // }
