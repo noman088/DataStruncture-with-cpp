@@ -1,0 +1,1 @@
+// 12. In question 1, define a method to find an element in the array.Return index if the element found, otherwise return -1.

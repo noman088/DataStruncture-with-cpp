@@ -6,7 +6,7 @@
 6. In question 1, define a method to edit an element at specified index.
 7. In question 1, define a method to delete an element at specified index.
 8. In question 1, define a method to check if array is full by returning True or False
-9. In question 1, define a method to get element ata specified index 
+9. In question 1, define a method to get element at a specified index 
 10.In question 1, define a method to count number of elements present in the array . 
 11.In question 1, define a destructor to deallocate the memorey of array. 
 12.In question 1, define a method to find an element in the array. Return index if the element found , otherwise return -1.

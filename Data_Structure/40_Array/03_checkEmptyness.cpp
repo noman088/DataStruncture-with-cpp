@@ -1,0 +1,1 @@
+// 3. In the question 1, add method to check whether an array is empty or not by returning True or False.

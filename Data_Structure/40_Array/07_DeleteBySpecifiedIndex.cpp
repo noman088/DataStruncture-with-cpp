@@ -1,0 +1,1 @@
+// 7. In question 1, define a method to delete an element at specified index.
