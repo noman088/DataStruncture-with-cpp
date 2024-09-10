@@ -1,7 +1,7 @@
-                        Member fucntion, static 
+                        Member function, static 
 
 1. Define a class Complex to represent a complex number with instance variables a and b 
-to store real and imaginary parts. Also define following member fucntions 
+to store real and imaginary parts. Also define following member functions 
     1. void setData(int, int )
     2. void showData()
     3. Complex add(Complex)
@@ -10,7 +10,7 @@ to store real and imaginary parts. Also define following member fucntions
 
 
 2.Define a class Time to represent a time with instance variables h , m and s to store 
-hour  , minute and second . Also define following member fucntions
+hour  , minute and second . Also define following member functions
     1. void setTime(int, int, int )
     2. void showTime()
     3. void normalize()
@@ -21,7 +21,7 @@ hour  , minute and second . Also define following member fucntions
 define class properies right_weightage, wrong_weightage.Provide methods to set
 and get all the properies. 
 
-4.Write a driver fucntion main() to use TestResult class(Question 3). Create an array 
+4.Write a driver function main() to use TestResult class(Question 3). Create an array 
 to 5 TestResult Objects, set values to all the objects and display the results in sorted
 order (by net_score).
 
