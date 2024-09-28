@@ -9,7 +9,7 @@ Define non parametaerised constructor and parameterised constructor in the class
 3. Define a class Time with hr, min, sec as instance member variables . Define
 constructor to initialise time Objects.
 
-4. Define a class Book with booked , title and price as instance member variables 
+4. Define a class Book with bookeid , title and price as instance member variables 
 Define non parameterrised and parametaerised constructor in the class. 
 
 5. Define a class Complex with instance variables for real and imaginary part of a
