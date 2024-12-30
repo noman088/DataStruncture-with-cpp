@@ -42,10 +42,10 @@ public:
                 cout << endl;
         }
 };
-int main()
-{
-        Number a(5);
-        Number b = a;
-        a.display();
-        b.display();
-}
+// int main()
+// {
+//         Number a(5);
+//         Number b = a;
+//         a.display();
+//         b.display();
+// }
