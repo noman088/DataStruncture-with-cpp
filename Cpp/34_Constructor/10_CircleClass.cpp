@@ -10,4 +10,5 @@ public:
         void setRadius(int r) { radius = r; }
         Circle(int r) { radius = r; }
         // we can make  area and other function for this class
+        
 };
