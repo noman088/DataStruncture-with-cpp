@@ -1,0 +1,75 @@
+                        Operator Overloading
+
+1. Define a class Complex with appropriate instance variables and member functions.
+   Define following operator in the class:
+   1. +
+   2. - 
+   3. *
+   4. ==
+
+
+2. Create a class Time which contains hour, min and second as fields. 
+overload greater than(>) operator to compare two time objects.
+
+3. In Question 2, overload pre - increment and post-increment operator to increment
+Time object value by one second.
+
+4.In Question 2 , Overload operator + to add Time Objects. 
+
+5. Define a class matrix to represent 3X3 matrix. Provide appropriate instance
+methods. Also define operator + , operator - , operator * to perform addition, 
+subtraction and multiplication operations respectively.
+
+
+6. Consider following class Numbers 
+
+    class Number
+    {
+        int x, y , z;
+        public:
+        // methods
+    };
+
+    Overload the Operator unary minus(-) to negate the numbers.
+
+7. Define a C++ class fraction 
+
+class fraction
+{
+    long numerator;
+    long denominator;
+    public:
+    fraction (long n=0 , long d=0);
+};
+Define an operator + to add two fraction object. 
+
+8. In Question 7 , define an operator < to compare two fraction objects.
+
+9. Consider a class Distance
+
+class Distance 
+{
+    int km, m , cm ;
+
+    public : 
+    // methods
+};
+Overload the operator + to add two Distance objects. 
+
+
+10. In Question 9 , define operator pre decrement and post decreent to decrease 
+distance by 1 cm. 
+
+11. Consider the following class Array 
+ 
+ class Array 
+ {
+    int *p;
+    int size;
+
+    public:
+     //methods
+ };
+
+Define constructor to allocate an array of given size(size is given through parameter)
+Define a subscript operator to access element at given index. Define destructor to deallocates the memory of array . 
