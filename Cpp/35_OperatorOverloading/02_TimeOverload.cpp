@@ -1,6 +1,9 @@
 
 // 2. Create a class Time which contains hour, min and second as fields.
 // overload greater than(>) operator to compare two time objects.
+#include <iostream>
+using namespace std;
+
 class Time
 {
 private:
@@ -29,8 +32,6 @@ public:
         }
 };
 
-#include <iostream>
-using namespace std;
 int main()
 {
         Time t1(2, 45, 30), t2(2, 45, 31);
