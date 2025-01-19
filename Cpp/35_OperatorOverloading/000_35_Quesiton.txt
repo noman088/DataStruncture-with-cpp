@@ -72,4 +72,5 @@ distance by 1 cm.
  };
 
 Define constructor to allocate an array of given size(size is given through parameter)
-Define a subscript operator to access element at given index. Define destructor to deallocates the memory of array . 
+Define a subscript operator to access element at given index.
+Define destructor to deallocates the memory of array . 
